@@ -5,8 +5,9 @@
 npm install
 
 ```
-localhost:8080 
-```
 npm run serve
+```
+localhost:8080
+
 ```
 
