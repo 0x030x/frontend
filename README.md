@@ -1,24 +1,17 @@
 # frontend
 
-## Project setup
+### Comandos necessário para instalação de dependencias
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Detalhes
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+Apos iniciar o servidor com npm run serve 
+Abra seu navegador e entre em 
+localhost:8080 
+e ja estará funcionando e a API do laravel ja estará em consumação
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
